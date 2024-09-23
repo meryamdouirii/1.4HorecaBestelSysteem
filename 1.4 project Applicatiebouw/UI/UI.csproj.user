@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AddEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangeItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditOrderRegelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeukenBarOverzicht.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SingleTableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TablesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

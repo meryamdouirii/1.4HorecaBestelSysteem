@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|c:\\users\\merya\\source\\1.4 project applicatiebouw\\dal\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|solutionrelative:dal\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\editorderregelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\editorderregelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\model\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|solutionrelative:model\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|solutionrelative:model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\model\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|solutionrelative:model\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\dal\\itemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|solutionrelative:dal\\itemdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BC916B-DBEF-49B6-8378-0988A208A267}|Service\\Service.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BC916B-DBEF-49B6-8378-0988A208A267}|Service\\Service.csproj|solutionrelative:service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\model\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|solutionrelative:model\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\dal\\receiptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|solutionrelative:dal\\receiptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\dal\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96D3CC0-80D2-4A30-8A81-5BD33B50F17B}|DAL\\DAL.csproj|solutionrelative:dal\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\overview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\changeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\changeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\changeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\changeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\keukenbaroverzicht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\keukenbaroverzicht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\ui\\keukenbaroverzicht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{598C4034-180A-4361-99DE-C9AE607FF148}|UI\\UI.csproj|solutionrelative:ui\\keukenbaroverzicht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362B4CA5-1697-4C24-B1F4-8639F58A55BC}|Model\\Model.csproj|solutionrelative:model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditOrderRegelForm.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\EditOrderRegelForm.cs",
+              "RelativeDocumentMoniker": "UI\\EditOrderRegelForm.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\EditOrderRegelForm.cs",
+              "RelativeToolTip": "UI\\EditOrderRegelForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:45:19.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\ItemType.cs",
+              "RelativeDocumentMoniker": "Model\\ItemType.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\ItemType.cs",
+              "RelativeToolTip": "Model\\ItemType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:32:51.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "UI\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\OrderDetailsForm.cs",
+              "RelativeToolTip": "UI\\OrderDetailsForm.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAawMEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:28:17.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:17:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Service\\ItemService.cs",
+              "RelativeDocumentMoniker": "Service\\ItemService.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Service\\ItemService.cs",
+              "RelativeToolTip": "Service\\ItemService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:50:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\OrderLine.cs",
+              "RelativeDocumentMoniker": "Model\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\OrderLine.cs",
+              "RelativeToolTip": "Model\\OrderLine.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:18:29.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDao.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\OrderDao.cs",
+              "RelativeDocumentMoniker": "DAL\\OrderDao.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\OrderDao.cs",
+              "RelativeToolTip": "DAL\\OrderDao.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAewEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:21:32.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "Model\\Item.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\Item.cs",
+              "RelativeToolTip": "Model\\Item.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:32:34.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "UI\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\repos\\UI\\OrderDetailsForm.cs [Design]",
+              "RelativeToolTip": "..\\repos\\UI\\OrderDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:28:12.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\Payment.cs",
+              "RelativeDocumentMoniker": "UI\\Payment.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\Payment.cs",
+              "RelativeToolTip": "UI\\Payment.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAjwFUBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:02:56.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\Receipt.cs",
+              "RelativeDocumentMoniker": "Model\\Receipt.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\Receipt.cs",
+              "RelativeToolTip": "Model\\Receipt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:16:16.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemDao.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\ItemDao.cs",
+              "RelativeDocumentMoniker": "DAL\\ItemDao.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\ItemDao.cs",
+              "RelativeToolTip": "DAL\\ItemDao.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAewA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:47:53.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceiptDAO.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\ReceiptDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\ReceiptDAO.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\ReceiptDAO.cs",
+              "RelativeToolTip": "DAL\\ReceiptDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:23:19.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TableDao.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\TableDao.cs",
+              "RelativeDocumentMoniker": "DAL\\TableDao.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\DAL\\TableDao.cs",
+              "RelativeToolTip": "DAL\\TableDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:23:48.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\Menus.cs",
+              "RelativeDocumentMoniker": "UI\\Menus.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\repos\\UI\\Menus.cs [Design]",
+              "RelativeToolTip": "..\\repos\\UI\\Menus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:02:20.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OverView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\OverView.cs",
+              "RelativeDocumentMoniker": "UI\\OverView.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\repos\\UI\\OverView.cs [Design]",
+              "RelativeToolTip": "..\\repos\\UI\\OverView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:01:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OverView.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\OverView.cs",
+              "RelativeDocumentMoniker": "UI\\OverView.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\OverView.cs",
+              "RelativeToolTip": "UI\\OverView.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:01:25.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangeItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\ChangeItem.cs",
+              "RelativeDocumentMoniker": "UI\\ChangeItem.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\repos\\UI\\ChangeItem.cs [Design]",
+              "RelativeToolTip": "..\\repos\\UI\\ChangeItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:44:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChangeItem.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\ChangeItem.cs",
+              "RelativeDocumentMoniker": "UI\\ChangeItem.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\ChangeItem.cs",
+              "RelativeToolTip": "UI\\ChangeItem.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwGAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:44:30.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\AddItem.cs",
+              "RelativeDocumentMoniker": "UI\\AddItem.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\repos\\UI\\AddItem.cs [Design]",
+              "RelativeToolTip": "..\\repos\\UI\\AddItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:44:15.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddItem.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\AddItem.cs",
+              "RelativeDocumentMoniker": "UI\\AddItem.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\AddItem.cs",
+              "RelativeToolTip": "UI\\AddItem.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:43:08.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\Menus.cs",
+              "RelativeDocumentMoniker": "UI\\Menus.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\Menus.cs",
+              "RelativeToolTip": "UI\\Menus.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAIwH0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:37:40.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\State.cs",
+              "RelativeDocumentMoniker": "Model\\State.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\Model\\State.cs",
+              "RelativeToolTip": "Model\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:20:17.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KeukenBarOverzicht.cs",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\KeukenBarOverzicht.cs",
+              "RelativeDocumentMoniker": "UI\\KeukenBarOverzicht.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\KeukenBarOverzicht.cs",
+              "RelativeToolTip": "UI\\KeukenBarOverzicht.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAawG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:16:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KeukenBarOverzicht.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\merya\\source\\1.4 project Applicatiebouw\\UI\\KeukenBarOverzicht.cs",
+              "RelativeDocumentMoniker": "UI\\KeukenBarOverzicht.cs",
+              "ToolTip": "C:\\Users\\merya\\source\\repos\\UI\\KeukenBarOverzicht.cs [Design]",
+              "RelativeToolTip": "..\\repos\\UI\\KeukenBarOverzicht.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:40:52.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
